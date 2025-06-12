@@ -30,32 +30,33 @@
 ---
 
 
- ## 🚀 Languages and Tools:
+## 🚀 Languages and Tools:
 
-➖➖➖➖
-  </br>
-  ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)&nbsp;
-  ![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=C%2B%2B&logoColor=white)&nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-  ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)&nbsp;
-  </br>
-➖➖➖➖
-  </br>
-  ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=HTML5)&nbsp;
-  ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=CSS3&logoColor=blue)&nbsp;
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)&nbsp;
-  ![Flask](https://img.shields.io/badge/-Flask-000?style=for-the-badge&logo=flask)&nbsp;
-  </br>
-➖➖➖➖
-  </br>
-  ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-000?style=for-the-badge&logo=apachespark&logoColor=red)&nbsp;
-  ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-000?style=for-the-badge&logo=apachehive&logoColor=yellow)&nbsp; 
-  </br>
-➖➖➖➖
- </br>
- ![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=PyTorch&logoColor=blue)&nbsp;
- ![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=TensorFlow&logoColor=red)&nbsp;
- </br>
+➖➖➖➖  
+</br>
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)&nbsp;
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=C%2B%2B&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)&nbsp;
+</br>
+➖➖➖➖  
+</br>
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
+![Colab](https://img.shields.io/badge/Google%20Colab-000?style=for-the-badge&logo=googlecolab&logoColor=yellow)&nbsp;
+![Jupyter](https://img.shields.io/badge/Jupyter-000?style=for-the-badge&logo=Jupyter&logoColor=orange)&nbsp;
+![Streamlit](https://img.shields.io/badge/Streamlit-000?style=for-the-badge&logo=streamlit)&nbsp;
+![Gradio](https://img.shields.io/badge/Gradio-000?style=for-the-badge&logo=gradio&logoColor=white)&nbsp;
+</br>
+➖➖➖➖  
+</br>
+![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/Numpy-000?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000?style=for-the-badge&logo=matplotlib&logoColor=white)&nbsp;
+![Seaborn](https://img.shields.io/badge/Seaborn-000?style=for-the-badge&logo=seaborn&logoColor=white)&nbsp;
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000?style=for-the-badge&logo=scikitlearn&logoColor=orange)&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=TensorFlow&logoColor=orange)&nbsp;
+![Keras](https://img.shields.io/badge/Keras-000?style=for-the-badge&logo=keras&logoColor=red)&nbsp;
+</br>
 ➖➖➖➖
 
 
