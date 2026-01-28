@@ -32,20 +32,6 @@ Strong communicator with leadership, teamwork, and analytical skills.
 
 ---
 
-## 🎓 Education
-
-- **B.Tech – Electronics & Telecommunication Engineering**  
-  Suryodaya College of Engineering & Technology (2022 – Present)  
-  **CGPA:** 7.70  
-
-- **12th – Maharashtra State Board (2022)**  
-  **Score:** 78.17%
-
-- **10th – Maharashtra State Board (2020)**  
-  **Score:** 76.40%
-
----
-
 ## 🚀 Technical Skills
 
 ### Programming
