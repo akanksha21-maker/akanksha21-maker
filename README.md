@@ -54,7 +54,7 @@ Strong communicator with leadership, teamwork, and analytical skills.
 
 ---
 
-## 💼 Experience
+## 💼 Internship
 
 ### 🔹 Intern – Dysmech Competency Services Pvt. Ltd.  
 **Nov 2022 – Mar 2023**  
