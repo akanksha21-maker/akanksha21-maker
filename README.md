@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="(https://github.com/akanksha21-maker/akanksha21-maker/blob/main/RESUMEOF_AKANKSHA_BHOSLE_DATA-ANALYATICS-HCL.pdf)">
+  <!-- <a href="(https://github.com/akanksha21-maker/akanksha21-maker/blob/raw/main/RESUMEOF_AKANKSHA_BHOSLE_DATA-ANALYATICS-HCL.pdf)"> -->
     <img src="https://img.shields.io/badge/📄 Download Resume-blueviolet?style=for-the-badge">
   </a>
 </p>
