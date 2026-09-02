@@ -18,17 +18,18 @@
 
 🎓 **B.Tech – Electronics & Telecommunication Engineering**  
 📍 Maharashtra, India  
-💡 Passionate about **Data Science, AI/ML & Data Analytics**  
-💻 Skilled in **Python, Embedded C, C (Basic)**  
-📊 Love building real-world automation & predictive systems  
+💡 Passionate about **QA Engineer/Software Tester  
+💻 Skilled in **Java, Manual Testing, Selenium Automation Testing, SQL, C (Basic)**  
+📊 Love to test real-world application & predictive systems  
 
 ---
 
 ## 🧠 Professional Summary
 
-Electronics and Telecommunication Engineering student with hands-on experience in **AI/ML, IoT, and Data Analytics**.  
-Skilled in **Streamlit, Scikit-learn, Power BI, Arduino**, and data-driven problem solving.  
-Strong communicator with leadership, teamwork, and analytical skills.
+Aspiring QA Engineer with a strong foundation in Manual and Automation Testing.
+Hands-on knowledge of Selenium WebDriver, Java, SQL, TestNG, Maven, Jira and Agile methodology.
+
+Experienced in creating test scenarios, writing test cases, executing test cases, identifying defects and automating web application workflows.
 
 ---
 
