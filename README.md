@@ -1,15 +1,8 @@
 <h1 align="center">✨ Akanksha Anil Bhosle ✨</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Enthusiast;AI+%7C+ML+%7C+Data+Analytics;Python+Developer;Problem+Solver&center=true&width=500&height=45&color=F70074&vCenter=true&size=22"/>
-</p>
+p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=QA+Engineer;Software+Tester;Manual+%7C+Automation+Testing;Selenium+%7C+Java+%7C+SQL&center=true&width=550&height=45&color=F70074&vCenter=true&size=22"/> </p>
 
-<p align="center">
-  <!-- <a href="(https://github.com/akanksha21-maker/akanksha21-maker/blob/raw/main/RESUMEOF_AKANKSHA_BHOSLE_DATA-ANALYATICS-HCL.pdf)"> -->
-    <img src="https://img.shields.io/badge/📄 Download Resume-blueviolet?style=for-the-badge">
-  </a>
-</p>
-
+<p align="center"> <img src="https://img.shields.io/badge/Manual%20Testing-Expert-informational?style=for-the-badge"/> <img src="https://img.shields.io/badge/Automation%20Testing-Selenium-success?style=for-the-badge"/> <img src="https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge&logo=openjdk"/> <img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge"/> </p>
 ---
 
 <img align="right" src="https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="250"/>
